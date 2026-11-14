@@ -43,39 +43,65 @@ I enjoy exploring software architecture, building intelligent applications, and 
 </p>
 
 
-
 ## Technical Stack
 
-<div align="center">
-
-**Languages & Web**
-
-![HTML, CSS and JavaScript](https://skillicons.dev/icons?i=html,css,js&theme=dark#gh-dark-mode-only)
-![HTML, CSS and JavaScript](https://skillicons.dev/icons?i=html,css,js&theme=light#gh-light-mode-only)
-
-**Frontend**
-
-![React, Next.js and Tailwind](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark#gh-dark-mode-only)
-![React, Next.js and Tailwind](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light#gh-light-mode-only)
-
-**Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark#gh-dark-mode-only)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light#gh-light-mode-only)
-
-**Databases & Services**
-
-![PostgreSQL, MySQL, MongoDB and Supabase](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark#gh-dark-mode-only)
-![PostgreSQL, MySQL, MongoDB and Supabase](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=light#gh-light-mode-only)
-
-**Tools**
-
-![Git and GitHub](https://skillicons.dev/icons?i=git,github&theme=dark#gh-dark-mode-only)
-![Git and GitHub](https://skillicons.dev/icons?i=git,github&theme=light#gh-light-mode-only)
-
 <p align="center">
-  <strong>AI Integration</strong>
-  <br><br>
-  OpenAI API &nbsp; · &nbsp; Gemini API
+  <strong>Languages & Web</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="HTML, CSS and JavaScript">
 </p>
 
+<p align="center">
+  <strong>Frontend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" alt="React, Next.js and Tailwind CSS">
+</p>
+
+<p align="center">
+  <strong>Backend</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=1" alt="Node.js">
+</p>
+
+<p align="center">
+  <strong>Databases & Services</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&perline=4" alt="PostgreSQL, MySQL, MongoDB and Supabase">
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="Git and GitHub">
+</p>
+
+<p align="center">
+  <strong>AI Integration</strong><br><br>
+  OpenAI API &nbsp;·&nbsp; Gemini API
+</p>
+
+
+
+## Featured Project
+
+### [Invigil](https://github.com/GeekSho/Invigil)
+
+An independently developed, desktop-based examination monitoring system built from scratch using computer vision.
+
+Invigil monitors student activity through a webcam, detects suspicious behaviour in real time, and automatically captures evidence with Telegram notifications.
+
+**Key Features**
+- Real-time webcam monitoring
+- Suspicious head movement detection
+- Multiple-face detection
+- Student absence detection
+- Automated evidence capture and storage
+- Real-time Telegram notifications
+- Standalone Windows executable support
+
+**Technologies**
+
+`Python` `OpenCV` `MediaPipe` `CustomTkinter` `Telegram Bot API` `Pillow` `PyInstaller`
+
+**Role:** Sole Developer · Independent Project
+
+<p>
+  <a href="https://github.com/GeekSho/Invigil">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-526A9B?style=for-the-badge&logo=github&logoColor=white" alt="View Invigil">
+  </a>
+</p>
