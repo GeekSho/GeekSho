@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Notsho%40proton.me&su=Hello%20Sho">Email</a>
+  Email · Notsho@proton.me
 </p>
 
 ## About Me
