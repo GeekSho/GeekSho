@@ -1,9 +1,9 @@
-<h1 align="center">Sho</h1>
-
-<h3 align="center">AI-native Full Stack Developer</h3>
-
 <p align="center">
-  Building at the intersection of full-stack engineering and AI.
+  <img
+    src="assets/profile-banner.jpg"
+    alt="A cozy developer workspace at twilight"
+    width="100%"
+  />
 </p>
 
 <p align="center">
@@ -20,27 +20,9 @@ I'm a BCA student focused on modern full-stack engineering and AI-driven applica
 
 I enjoy exploring software architecture, building intelligent applications, and understanding the engineering principles behind scalable, reliable software. My current focus is on strengthening my foundations across frontend, backend, databases, and AI integration.
 
-## Engineering Focus
+## Focus
 
-<p>
-  <strong>Full-Stack Engineering</strong><br>
-  Modern web architecture, frontend systems, backend engineering and API design.
-</p>
-
-<p>
-  <strong>AI & Intelligent Applications</strong><br>
-  LLM integration, RAG, embeddings, AI agents and intelligent application development.
-</p>
-
-<p>
-  <strong>Data & System Design</strong><br>
-  Database architecture, optimization, system design and software engineering principles.
-</p>
-
-<p>
-  <strong>Infrastructure & Engineering Quality</strong><br>
-  Cloud infrastructure, deployment, Docker, CI/CD, application security and performance optimization.
-</p>
+**Full-Stack Engineering** · **AI Applications** · **System Design** · **Cloud & Infrastructure**
 
 
 ## Technical Stack
@@ -70,29 +52,15 @@ I enjoy exploring software architecture, building intelligent applications, and 
   <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="Git and GitHub">
 </p>
 
-<p align="center">
-  <strong>AI Integration</strong><br><br>
-  OpenAI API &nbsp;·&nbsp; Gemini API
-</p>
-
 
 
 ## Featured Project
 
 ### [Invigil](https://github.com/GeekSho/Invigil)
 
-An independently developed, desktop-based examination monitoring system built from scratch using computer vision.
+An independently developed computer-vision-based examination monitoring application.
 
-Invigil monitors student activity through a webcam, detects suspicious behaviour in real time, and automatically captures evidence with Telegram notifications.
-
-**Key Features**
-- Real-time webcam monitoring
-- Suspicious head movement detection
-- Multiple-face detection
-- Student absence detection
-- Automated evidence capture and storage
-- Real-time Telegram notifications
-- Standalone Windows executable support
+Real-time webcam monitoring · Suspicious activity detection · Evidence capture · Telegram notifications
 
 **Technologies**
 
