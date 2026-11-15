@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GeekSho">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/devsho/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:Notsho@proton.me">Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Notsho%40proton.me&su=Hello%20Sho">Email</a>
 </p>
 
 ## About Me
